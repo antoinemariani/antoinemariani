@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Antoine</h1>
 <h3 align="center">A curious, fast-learning fullstack developer from Marseille, France.</h3>
 
-- 🔭 I’m currently working on [re:Cycle - giving life to old bikes !](https://www.recycle-velo.me)
+- 🔭 I’m currently working on [re:Cycle - giving life to old bikes !](https://www.recycle-velo.me), an app made with Ruby on Rails
 
 - 🌱 I’m currently learning **JavaScript, React, Node.js, Unit testing & Metaprogramming in Ruby**
 
