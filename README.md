@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [re:Cycle - giving life to old bikes !](https://www.recycle-velo.me)
 
-- 🌱 I’m currently learning **JavaScript, React, Redux, Unit testing & Metaprogramming in Ruby**
+- 🌱 I’m currently learning **JavaScript, React, Node.js, Unit testing & Metaprogramming in Ruby**
 
 - 👯 I’ve previously been managing projects at [UZIK Agency](https://www.uzik.com/)
 
