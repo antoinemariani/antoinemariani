@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **ruby, rails... but also running & cycling ! 🚲🏃**
 
-- 📫 How to reach me **antoine.mariani@me.com**
+- 📫 How to reach me **antoinemariani7@gmail.com**
 
 - 📄 Know about my experiences [https://www.icloud.com/iclouddrive/0ff3p4FyeIIEvgyuaprVn4gAA#Antoine_MARIANI_-_Fullstack_Developer](https://www.icloud.com/iclouddrive/0ff3p4FyeIIEvgyuaprVn4gAA#Antoine_MARIANI_-_Fullstack_Developer)
 
