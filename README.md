@@ -7,7 +7,7 @@
 
 - 👯 I’ve previously been managing projects at [UZIK Agency](https://www.uzik.com/)
 
-- 👨‍💻 All of my projects are available at [antoinemariani.github.io](antoinemariani.github.io)
+- 👨‍💻 All of my projects are available on this page (and on demand!)
 
 - 💬 Ask me about **ruby, rails... but also running & cycling ! 🚲🏃**
 
