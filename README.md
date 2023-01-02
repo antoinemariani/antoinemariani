@@ -9,13 +9,13 @@
 
 - 👨‍💻 All of my projects are available on this page (and on demand!)
 
-- 💬 Ask me about **ruby, rails... but also running & cycling ! 🚲🏃**
+- 💬 Ask me about **ruby, rails, tech & online communications... but also running & cycling ! 🚲🏃**
 
 - 📫 How to reach me **hello@amariani.dev**
 
 - 📄 Know about my experiences [My homepage](https://www.amariani.dev)
 
-- ⚡ Fun fact **I've ridden 3000km across France by bike in 2022, from Dunkerque to Hendaye and Marseille !**
+- ⚡ Fun fact **I've ridden 3000km across France by bike in 2022, from Dunkerque to Hendaye and then Marseille !**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
