@@ -11,9 +11,9 @@
 
 - 💬 Ask me about **ruby, rails... but also running & cycling ! 🚲🏃**
 
-- 📫 How to reach me **antoinemariani7@gmail.com**
+- 📫 How to reach me **hello@amariani.dev**
 
-- 📄 Know about my experiences [My Resume](https://www.icloud.com/iclouddrive/0ff3p4FyeIIEvgyuaprVn4gAA#Antoine_MARIANI_-_Fullstack_Developer)
+- 📄 Know about my experiences [My homepage](https://www.amariani.dev)
 
 - ⚡ Fun fact **I've ridden 3000km across France by bike in 2022, from Dunkerque to Hendaye and Marseille !**
 
