@@ -69,7 +69,4 @@
     <img src="https://img.shields.io/badge/vercel-%23000000.svg?logo=vercel&logoColor=white&style=for-the-badge" alt="Vercel" />
   </p>
 
-**** Stats ****
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=antoinemariani&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
 ![Visitors](https://komarev.com/ghpvc/?username=antoinemariani&color=green&style=for-the-badge)
