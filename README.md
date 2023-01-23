@@ -15,6 +15,8 @@
 
 - 📄 Know about my experiences [My homepage](https://www.amariani.dev)
 
+[![forthebadge](https://forthebadge.com/images/badges/made-with-ruby.svg)](https://forthebadge.com)
+
 - ⚡ Fun fact **I've ridden 3000km across France by bike in 2022, from Dunkerque to Hendaye and then Marseille !**
 
 <h3 align="left">Connect with me:</h3>
