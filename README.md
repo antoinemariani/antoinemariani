@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [re:Cycle - giving life to old bikes !](https://www.recycle-velo.me), an app made with Ruby on Rails
 
-- 🌱 I’m also working with **JavaScript, React, Node.js, Docker**, and learning Unit testing & Metaprogramming in Ruby
+- 🌱 I’m also working with **JavaScript/TypeScript, React, Node.js**, and learning Unit testing & Metaprogramming in Ruby
 
 - 👯 I’ve previously been managing projects at [UZIK Agency](https://www.uzik.com/)
 
