@@ -38,6 +38,7 @@
   <p align="left">
     <img src="https://img.shields.io/badge/-Ruby%20on%20Rails-CC0000?logo=ruby%20on%20rails&logoColor=white&style=for-the-badge" alt="Rails" />
     <img src="https://img.shields.io/badge/node.js-%2343853d.svg?logo=node.js&logoColor=white&style=for-the-badge" alt="Node.js" />
+    
   </p>
 
 <h5 align="left">Frontend</h5>
@@ -64,6 +65,7 @@
     <img src="https://img.shields.io/badge/visual%20studio%20code-%230078d7.svg?logo=visual-studio-code&logoColor=white&style=for-the-badge" alt="Visual Studio Code" />
     <img src="https://img.shields.io/badge/mongodb-%234ea94b.svg?logo=mongodb&logoColor=white&style=for-the-badge" alt="MongoDB" />
     <img src="https://img.shields.io/badge/postgres-%23336791.svg?logo=postgresql&logoColor=white&style=for-the-badge" alt="Postgres" />
+    <img src="https://img.shields.io/badge/postman-%23ff6c37.svg?logo=postman&logoColor=white&style=for-the-badge" alt="Postman" />
     <img src="https://img.shields.io/badge/redis-%23a51f17.svg?logo=redis&logoColor=white&style=for-the-badge" alt="Redis" />
     <img src="https://img.shields.io/badge/google%20cloud-%234285f4.svg?logo=googlecloud&logoColor=white&style=for-the-badge" alt="Google Cloud" />
     <img src="https://img.shields.io/badge/vercel-%23000000.svg?logo=vercel&logoColor=white&style=for-the-badge" alt="Vercel" />
