@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [a new Parisian restaurant booking app & website](https://www.github.com/antoinemariani/eunoe-restaurant), with Ruby on Rails, JavaScript, StimulusJS, Turbo, TailwindCSS, PostgreSQL. 
 
-- 🌱 I’m also working with **JavaScript/TypeScript, React, Vite.js, Node.js, API Rest**, and learning Unit testing & Metaprogramming in Ruby
+- 🌱 I’m also working with **JavaScript/TypeScript, React, Vite.js, Node.js, API Rest**, and learning TDD in Ruby/Rails
 
 - 🚴‍♂️ I’ve built a bike repairing app at [⚙️🪛 re:Cycle - give a new life to old bikes!](https://www.recycle-velo.me/)
 
