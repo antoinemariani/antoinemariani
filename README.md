@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **Ruby, Rails, tech & online communications... but also running & cycling ! 🚲🏃**
 
-- 📫 How to reach me [**email**](mailto:hello@amariani.dev) & [**linkedin**](https://www.linkedin.com/in/antoinemariani)
+- 📫 How to reach me : [**email**](mailto:hello@amariani.dev) & [**linkedin**](https://www.linkedin.com/in/antoinemariani)
 
 - 📄 More about my experiences [My homepage](https://antoinemariani.github.io/gh-pages-home)
 
