@@ -19,14 +19,6 @@
 
 - ⚡ Fun fact **I've ridden 3000km across France by bike in 2022, from Dunkerque to Hendaye and then Marseille !**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/antoinemariani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="antoinemariani" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/20050190" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="20050190" height="30" width="40" /></a>
-<a href="https://instagram.com/antoine_mariani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="antoine_mariani" height="30" width="40" /></a>
-<a href="https://dribbble.com/antmariani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="antmariani" height="30" width="40" /></a>
-</p>
-
 <h5 align="left">Languages</h5>
   <p align="left">
     <img src="https://img.shields.io/badge/ruby-%23cc342d.svg?logo=ruby&logoColor=white&style=for-the-badge" alt="Ruby" />
