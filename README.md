@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Antoine</h1>
 <h3 align="center">A curious, fast-learning fullstack developer from Marseille, France.</h3>
 
-- 🔭 I’m currently working on [a new Parisian restaurant booking app & website](https://www.github.com/antoinemariani/eunoe-restaurant), an app made with Ruby on Rails
+- 🔭 I’m currently working on [a new Parisian restaurant booking app & website](https://www.github.com/antoinemariani/eunoe-restaurant), with Ruby on Rails, JavaScript, StimulusJS, Turbo, TailwindCSS, PostgreSQL. 
 
 - 🌱 I’m also working with **JavaScript/TypeScript, React, Node.js**, and learning Unit testing & Metaprogramming in Ruby
 
