@@ -5,6 +5,8 @@
 
 - 🌱 I’m also working with **JavaScript/TypeScript, React, Vite.js, Node.js, API Rest**, and learning Unit testing & Metaprogramming in Ruby
 
+- 🚴‍♂️ I’ve built a bike repairing app at [⚙️🪛 re:Cycle - give a new life to old bikes!](https://www.recycle-velo.me/)
+
 - 👯 I’ve previously been managing projects at [UZIK Agency](https://www.uzik.com/)
 
 - 👨‍💻 All of my projects are available on this page (and on demand!)
