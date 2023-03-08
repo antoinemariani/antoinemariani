@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [a new Parisian restaurant booking app & website](https://www.github.com/antoinemariani/eunoe-restaurant), with Ruby on Rails, JavaScript, StimulusJS, Turbo, TailwindCSS, PostgreSQL. 
 
-- 🌱 I’m also working with **JavaScript/TypeScript, React, Node.js**, and learning Unit testing & Metaprogramming in Ruby
+- 🌱 I’m also working with **JavaScript/TypeScript, React, Vite.js, Node.js, API Rest**, and learning Unit testing & Metaprogramming in Ruby
 
 - 👯 I’ve previously been managing projects at [UZIK Agency](https://www.uzik.com/)
 
