@@ -5,17 +5,17 @@
 
 - 🌱 I’m also working with **JavaScript/TypeScript, React, Vite.js, Node.js, API Rest**, and learning TDD in Ruby/Rails
 
-- 🚴‍♂️ I’ve built a bike repairing app at [⚙️🪛 re:Cycle - give a new life to old bikes!](https://www.recycle-velo.me/)
+- 🚴‍♂️ I’ve built a bike repairing app that you can discover here : [⚙️🪛 re:Cycle - give a new life to old bikes!](https://www.recycle-velo.me/)
 
-- 👯 I’ve previously been managing projects at [UZIK Agency](https://www.uzik.com/)
+- 👯 I’ve previously been managing digital projects at [UZIK Agency](https://www.uzik.com/)
 
 - 👨‍💻 All of my projects are available on this page (and on demand!)
 
-- 💬 Ask me about **ruby, rails, tech & online communications... but also running & cycling ! 🚲🏃**
+- 💬 Ask me about **Ruby, Rails, tech & online communications... but also running & cycling ! 🚲🏃**
 
-- 📫 How to reach me **hello@amariani.dev**
+- 📫 How to reach me [**email**](mailto:hello@amariani.dev) & [**linkedin**](https://www.linkedin.com/in/antoinemariani)
 
-- 📄 Know about my experiences [My homepage](https://www.amariani.dev)
+- 📄 More about my experiences [My homepage](https://antoinemariani.github.io/gh-pages-home)
 
 - ⚡ Fun fact **I've ridden 3000km across France by bike in 2022, from Dunkerque to Hendaye and then Marseille !**
 
