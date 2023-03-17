@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Antoine</h1>
 <h3 align="center">A curious, fast-learning fullstack developer from Marseille, France.</h3>
 
-- 🔭 I’m currently working on [a new Parisian restaurant booking app & website](https://www.github.com/antoinemariani/eunoe-restaurant), with Ruby on Rails, JavaScript, StimulusJS, Turbo, TailwindCSS, PostgreSQL. 
+- 🔭 I’m currently working on [a new Parisian restaurant booking app & website](https://www.github.com/antoinemariani/eunoe-restaurant), with **Ruby on Rails, JavaScript, StimulusJS, Turbo, TailwindCSS, PostgreSQL**. 
 
-- 🌱 I’m also working with **JavaScript/TypeScript, React, Vite.js, Node.js, API Rest**, and learning TDD in Ruby/Rails
+- 🌱 I’m also working with **React.js, Vite.js, Next.js, Node.js, API Rest**, and learning TDD in Ruby/Rails
 
 - 🚴‍♂️ I’ve built a bike repairing app that you can discover here : [⚙️🪛 re:Cycle - give a new life to old bikes!](https://www.recycle-velo.me/)
 
