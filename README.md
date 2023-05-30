@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on [a new Parisian restaurant booking app & website](https://www.github.com/antoinemariani/eunoe-restaurant), with **Ruby on Rails, JavaScript, StimulusJS, Turbo, TailwindCSS, PostgreSQL**. 
 
-- 🌱 I’m also working with **React.js, Vite.js, Next.js, Node.js, API Rest**, and learning TDD in Ruby/Rails
+- 🌱 I’m also working with **React.js, Vite.js, Next.js, Node.js, API Rest**
 
 - 🚴‍♂️ I’ve built a bike repairing app that you can discover here : [⚙️🪛 re:Cycle - give a new life to old bikes!](https://www.recycle-velo.me/)
 
@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available on this page (and on demand!)
 
-- 💬 Ask me about **Ruby, Rails, tech & online communications... but also running & cycling ! 🚲🏃**
+- 💬 Ask me about **Product Design, Growth Management, React & Next.js, Ruby on Rails, tech & online communications... but also running & cycling ! 🚲🏃**
 
 - 📫 How to reach me : [**email**](mailto:hello@amariani.dev) & [**linkedin**](https://www.linkedin.com/in/antoinemariani)
 
