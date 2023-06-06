@@ -1,24 +1,24 @@
 <h1 align="center">Hi 👋, I'm Antoine</h1>
 
-- ⚙️ Product Manager based in Marseille, France. I am teaching JavaScript, Product Design & Product Management at [Le Wagon](https://www.github.com/lewagon)
+⚙️ Product Manager based in Marseille, France. I am teaching JavaScript, Product Design & Product Management at [Le Wagon](https://www.github.com/lewagon)
 
-- 🔭 I've previously been working on [a new Parisian restaurant booking app & website](https://www.eunoe-restaurant.com/).
+🔭 I've previously been working on [a new Parisian restaurant booking app & website](https://www.eunoe-restaurant.com/).
 
-- 🎨 Also designing & building a gallery & content studio for a French painter [/sophie-yen-bretez-art](https://github.com/antoinemariani/sophie-yen-bretez-art)
+🎨 Also designing & building a gallery & content studio for a French painter [/sophie-yen-bretez-art](https://github.com/antoinemariani/sophie-yen-bretez-art)
 
-- 🌱 I’m working with **React.js, Vite.js, Next.js, Sanity, API Rest**
+🌱 I’m working with **React.js, Vite.js, Next.js, Sanity, API Rest**
 
-- 🚴‍♂️ I’ve built a bike repairing app that you can discover here : [⚙️🪛 re:Cycle - give a new life to old bikes!](https://www.recycle-velo.me/)
+🚴‍♂️ I’ve built a bike repairing app that you can discover here : [⚙️🪛 re:Cycle - give a new life to old bikes!](https://www.recycle-velo.me/)
 
-- 👯 I’ve previously been managing digital projects at [UZIK Agency](https://www.uzik.com/)
+👯 I’ve previously been managing digital projects at [UZIK Agency](https://www.uzik.com/)
 
-- 👨‍💻 All of my projects are available on this page (and on demand!)
+👨‍💻 All of my projects are available on this page (and on demand!)
 
-- 💬 Ask me about **Product Design & Management, Growth, React & Next.js, Ruby on Rails, tech & online communications... but also running & cycling ! 🚲🏃**
+💬 Ask me about **Product Design & Management, Growth, React & Next.js, Ruby on Rails, tech & online communications... but also running & cycling ! 🚲🏃**
 
-- 📫 How to reach me : [**email**](mailto:hello@amariani.dev) & [**linkedin**](https://www.linkedin.com/in/antoinemariani)
+📫 How to reach me : [**email**](mailto:hello@amariani.dev) & [**linkedin**](https://www.linkedin.com/in/antoinemariani)
 
-- ⚡ Fun fact **I've ridden 3000km across France by bike in 2022, from Dunkerque to Hendaye and then Marseille !**
+⚡ Fun fact **I've ridden 3000km across France by bike in 2022, from Dunkerque to Hendaye and then Marseille !**
 
 <h5 align="left">Languages</h5>
   <p align="left">
