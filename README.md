@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Antoine</h1>
 
-- 🔭 I’m currently working on [a new Parisian restaurant booking app & website](https://www.github.com/antoinemariani/eunoe-restaurant), with **Ruby on Rails, JavaScript, StimulusJS, Turbo, TailwindCSS, PostgreSQL**. 
+- 🔭 I’m currently working on [a new Parisian restaurant booking app & website](https://www.eunoe-restaurant.com/), with **Ruby on Rails, StimulusJS, Turbo, TailwindCSS, PostgreSQL**. 
 
-- 🌱 I’m also working with **React.js, Vite.js, Next.js, Node.js, API Rest**
+- 🌱 I’m also working with **React.js, Vite.js, Next.js, Sanity, API Rest**
 
 - 🚴‍♂️ I’ve built a bike repairing app that you can discover here : [⚙️🪛 re:Cycle - give a new life to old bikes!](https://www.recycle-velo.me/)
 
