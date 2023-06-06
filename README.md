@@ -1,8 +1,12 @@
 <h1 align="center">Hi 👋, I'm Antoine</h1>
 
-- 🔭 I’m currently working on [a new Parisian restaurant booking app & website](https://www.eunoe-restaurant.com/), with **Ruby on Rails, StimulusJS, Turbo, TailwindCSS, PostgreSQL**. 
+- ⚙️ Product Manager based in Marseille, France. I am teaching JavaScript, Product Design & Product Management at [Le Wagon](https://www.github.com/lewagon)
 
-- 🌱 I’m also working with **React.js, Vite.js, Next.js, Sanity, API Rest**
+- 🔭 I've previously been working on [a new Parisian restaurant booking app & website](https://www.eunoe-restaurant.com/).
+
+- 🎨 Also designing & building a gallery & content studio for a French painter [/sophie-yen-bretez-art](https://github.com/antoinemariani/sophie-yen-bretez-art)
+
+- 🌱 I’m working with **React.js, Vite.js, Next.js, Sanity, API Rest**
 
 - 🚴‍♂️ I’ve built a bike repairing app that you can discover here : [⚙️🪛 re:Cycle - give a new life to old bikes!](https://www.recycle-velo.me/)
 
@@ -10,11 +14,9 @@
 
 - 👨‍💻 All of my projects are available on this page (and on demand!)
 
-- 💬 Ask me about **Product Design, Growth Management, React & Next.js, Ruby on Rails, tech & online communications... but also running & cycling ! 🚲🏃**
+- 💬 Ask me about **Product Design & Management, Growth, React & Next.js, Ruby on Rails, tech & online communications... but also running & cycling ! 🚲🏃**
 
 - 📫 How to reach me : [**email**](mailto:hello@amariani.dev) & [**linkedin**](https://www.linkedin.com/in/antoinemariani)
-
-- 📄 More about my experiences [My homepage](https://antoinemariani.github.io/gh-pages-home)
 
 - ⚡ Fun fact **I've ridden 3000km across France by bike in 2022, from Dunkerque to Hendaye and then Marseille !**
 
