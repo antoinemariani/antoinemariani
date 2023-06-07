@@ -6,7 +6,7 @@
 
 🎨 Also designing & building a gallery & content studio for a French painter [/sophie-yen-bretez-art](https://github.com/antoinemariani/sophie-yen-bretez-art)
 
-🌱 I’m working with **React.js, Vite.js, Next.js, Sanity, API Rest**
+🌱 I’m working with React.js, Vite.js, Next.js, Sanity, API Rest
 
 🚴‍♂️ I’ve built a bike repairing app that you can discover here : [⚙️🪛 re:Cycle - give a new life to old bikes!](https://www.recycle-velo.me/)
 
