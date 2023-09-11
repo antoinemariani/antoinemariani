@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Antoine</h1>
 
-⚙️ Product Manager based in Marseille, France. I am teaching JavaScript, Product Design & Product Management at [Le Wagon](https://www.github.com/lewagon)
+⚙️ Product Manager @ [Gogaille](https://github.com/gogaille) based in Marseille, France. I am teaching Product Management, Product Design and JavaScript at [Le Wagon](https://www.github.com/lewagon)
 
 🔭 I've previously been working on [a new Parisian restaurant booking app & website](https://www.eunoe-restaurant.com/).
 
