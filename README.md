@@ -16,7 +16,7 @@
 
 💬 Ask me about **Product Design & Management, Growth, React & Next.js, Ruby on Rails, tech & online communications... but also running & cycling ! 🚲🏃**
 
-📫 How to reach me : [**email**](mailto:hello@amariani.dev) & [**linkedin**](https://www.linkedin.com/in/antoinemariani)
+📫 How to reach me : [**linkedin**](https://www.linkedin.com/in/antoinemariani)
 
 ⚡ Fun fact **I've ridden 3000km across France by bike in 2022, from Dunkerque to Hendaye and then Marseille !**
 
