@@ -1,18 +1,10 @@
 <h1 align="center">Hi 👋, I'm Antoine</h1>
 
-⚙️ Product Manager @ [Gogaille](https://github.com/gogaille) based in Marseille, France. I am teaching Product Management, Product Design and JavaScript at [Le Wagon](https://www.github.com/lewagon)
+⚙️ Product Manager @ [fulll](https://github.com/fulll) based in Marseille, France.
 
-🔭 I've previously been working on [a new Parisian restaurant booking app & website](https://www.eunoe-restaurant.com/).
-
-🎨 Also designing & building a gallery & content studio for a French painter [/sophie-yen-bretez-art](https://github.com/antoinemariani/sophie-yen-bretez-art)
-
-🌱 I’m working with React.js, Vite.js, Next.js, Sanity, API Rest
-
-🚴‍♂️ I’ve built a bike repairing app that you can discover here : [⚙️🪛 re:Cycle - give a new life to old bikes!](https://www.recycle-velo.me/)
+🔭 I've previously been working teaching Product Management, Product Design and JavaScript at [Le Wagon](https://www.github.com/lewagon).
 
 👯 I’ve previously been managing digital projects at [UZIK Agency](https://www.uzik.com/)
-
-👨‍💻 All of my projects are available on this page (and on demand!)
 
 💬 Ask me about **Product Design & Management, Growth, React & Next.js, Ruby on Rails, tech & online communications... but also running & cycling ! 🚲🏃**
 
