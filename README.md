@@ -20,37 +20,6 @@
 
 ⚡ Fun fact **I've ridden 3000km across France by bike in 2022, from Dunkerque to Hendaye and then Marseille !**
 
-<h5 align="left">Frontend & Design</h5>
-  <p align="left">
-    <img
-            src="https://img.shields.io/badge/react-%2320232a.svg?logo=react&logoColor=%2361dafb&style=for-the-badge"
-            alt="React"
-          />
-            <img
-            src="https://img.shields.io/badge/next.js-%23000000.svg?logo=next.js&logoColor=white&style=for-the-badge"
-            alt="Next.js"
-          />
-          <img
-            src="https://img.shields.io/badge/tailwindcss-%2338b2ac.svg?logo=tailwind-css&logoColor=white&style=for-the-badge"
-            alt="TailwindCSS"
-          />
-          <img
-            src="https://camo.githubusercontent.com/ecf8decb38027dc3c68bea33347693835b434a41b7dc97489dad789c5745feb8/68747470733a2f2f746563682d6261646765732e76657263656c2e6170702f76697465"
-            alt="ViteJS"
-          />
-          <img
-            src="https://img.shields.io/badge/adobe%20lightroom-%2331a8ff.svg?logo=adobe-lightroom&logoColor=white&style=for-the-badge"
-            alt="Adobe Lightroom"
-          />
-          <img
-            src="https://img.shields.io/badge/figma-%23f24e1e.svg?logo=figma&logoColor=white&style=for-the-badge"
-            alt="Figma"
-          />
-          <img
-            src="https://img.shields.io/badge/adobe%20photoshop-%2331a8ff.svg?logo=adobe-photoshop&logoColor=white&style=for-the-badge"
-            alt="Adobe Photoshop"
-          />
-
 <h5 align='left'>Product & Growth</h5>
   <p align='left'>
     <img
@@ -92,21 +61,30 @@
   </p>
   
 
-
+<h5 align="left">Frontend & Design</h5>
+  <p align="left">
+    <img
+            src="https://img.shields.io/badge/react-%2320232a.svg?logo=react&logoColor=%2361dafb&style=for-the-badge"
+            alt="React"
+          />
+            <img
+            src="https://img.shields.io/badge/next.js-%23000000.svg?logo=next.js&logoColor=white&style=for-the-badge"
+            alt="Next.js"
+          />
+          <img
+            src="https://img.shields.io/badge/tailwindcss-%2338b2ac.svg?logo=tailwind-css&logoColor=white&style=for-the-badge"
+            alt="TailwindCSS"
+          />
+          <img
+            src="https://img.shields.io/badge/figma-%23f24e1e.svg?logo=figma&logoColor=white&style=for-the-badge"
+            alt="Figma"
+          />
 
 <h5 align="left">Languages</h5>
   <p align="left">
           <img
             src="https://img.shields.io/badge/ruby-%23cc342d.svg?logo=ruby&logoColor=white&style=for-the-badge"
             alt="Ruby"
-          />
-          <img
-            src="https://img.shields.io/badge/css3-%231572b6.svg?logo=css3&logoColor=white&style=for-the-badge"
-            alt="CSS3"
-          />
-          <img
-            src="https://img.shields.io/badge/html5-%23e34f26.svg?logo=html5&logoColor=white&style=for-the-badge"
-            alt="HTML5"
           />
           <img
             src="https://img.shields.io/badge/javascript-%23323330.svg?logo=javascript&logoColor=%23F7DF1E&style=for-the-badge"
