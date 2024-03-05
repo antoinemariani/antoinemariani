@@ -14,7 +14,11 @@
 
 <h5 align='left'>Product & Growth</h5>
   <p align='left'>
-    <img
+          <img
+            src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"
+            alt="GitHub"
+          />
+          <img
             src="https://img.shields.io/badge/hotjar-FD3A5C?style=for-the-badge&logo=hotjar&logoColor=white"
             alt="Hotjar"
           />
@@ -29,10 +33,6 @@
           <img
             src="https://img.shields.io/badge/google%20search%20console-%2334A853.svg?logo=google-search-console&logoColor=white&style=for-the-badge"
             alt="Google Search Console"
-          />
-          <img
-            src="https://camo.githubusercontent.com/3c85a9d67622551b942e784e1f2a18502f307735c07acb29e85c9c98685b3ff2/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d48756253706f7426636f6c6f723d464637413539266c6f676f3d48756253706f74266c6f676f436f6c6f723d464646464646266c6162656c3d"
-            alt="HubSpot"
           />
           <img
             src="https://img.shields.io/badge/product%20hunt-%23DA552F.svg?&style=for-the-badge&logo=product%20hunt&logoColor=white"
