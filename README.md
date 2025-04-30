@@ -6,11 +6,9 @@
 
 👯 I’ve previously been managing digital projects at [UZIK Agency](https://www.uzik.com/)
 
-💬 Ask me about **Product Design & Management, Growth, React & Next.js, Ruby on Rails, tech & online communications... but also running & cycling ! 🚲🏃**
+💬 Ask me about **Product Design & Management, Growth, tech & online communications... but also running & cycling ! 🚲🏃**
 
 📫 How to reach me : [**linkedin**](https://www.linkedin.com/in/antoinemariani)
-
-⚡ Fun fact **I've ridden 3000km across France by bike in 2022, from Dunkerque to Hendaye and then Marseille !**
 
 <h5 align='left'>Product & Growth</h5>
   <p align='left'>
