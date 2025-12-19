@@ -6,7 +6,7 @@
 
 👯 I’ve previously been managing digital projects at [UZIK Agency](https://www.uzik.com/)
 
-💬 Ask me about **Product Design & Management, Growth, tech & online communications... but also running & cycling ! 🚲🏃**
+💬 Ask me about **Product Management, Growth, tech & online communications... but also running & cycling ! 🚲🏃**
 
 📫 How to reach me : [**linkedin**](https://www.linkedin.com/in/antoinemariani)
 
