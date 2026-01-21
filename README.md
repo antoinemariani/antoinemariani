@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Antoine</h1>
 
-⚙️ Product Manager @ [fulll](https://github.com/fulll) based in Marseille, France.
+⚙️ Cashflow & Banking Product Manager @ [fulll](https://github.com/fulll) based in Marseille, France.
 
 🏨 I've been managing hospitality products at [Encore Mieux!](https://encore-mieux.com/fr) (formerly Gogaille).
 
