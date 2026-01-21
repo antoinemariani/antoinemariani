@@ -4,7 +4,7 @@
 
 🏨 I've been managing hospitality products at [Encore Mieux!](https://encore-mieux.com/fr) (formerly Gogaille).
 
-🔭 I've previously been working teaching Product Management, Product Design and JavaScript at [Le Wagon](https://www.github.com/lewagon).
+🔭 I've previously been studying and teaching Product Management, Product Design and JavaScript at [Le Wagon](https://www.github.com/lewagon).
 
 👯 I’ve previously been managing digital projects at [UZIK Agency](https://www.uzik.com/)
 
